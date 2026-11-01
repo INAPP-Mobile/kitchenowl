@@ -1,5 +1,9 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/kitchenowl?utm_campaign=kitchenowl)
 
+![KitchenOwl shopping list UI](https://raw.githubusercontent.com/INAPP-Mobile/kitchenowl/main/assets/kitchenowl-ui.png)
+
+*Shopping list UI captured from a test deployment (test data only).*
+
 # Deploy and Host
 
 KitchenOwl is a self-hosted household organizer for groceries, recipes, meal plans, and shared expenses. One-click deploy creates a single service with a persistent volume — no database companion needed. After deploy, open the public URL and complete onboarding to create the owner account (username + password, no email required). Public registration stays closed after that.

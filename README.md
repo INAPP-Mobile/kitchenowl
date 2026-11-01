@@ -4,6 +4,10 @@ KitchenOwl is a self-hosted household organizer for groceries, recipes, meal pla
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/kitchenowl?utm_campaign=kitchenowl)
 
+![KitchenOwl shopping list UI](assets/kitchenowl-ui.png)
+
+*Shopping list UI captured from a test deployment (test data only).*
+
 ## Source Repository
 
 [https://github.com/INAPP-Mobile/kitchenowl](https://github.com/INAPP-Mobile/kitchenowl)

@@ -1,0 +1,1 @@
+{"JWT_SECRET_KEY":{"description":"Secret key used to sign KitchenOwl session tokens. Generated automatically on deploy; keep it stable across restarts or all sessions are invalidated.","value":"${{secret(32)}}"}}

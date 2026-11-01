@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#15171A"/>
+      <stop offset="100%" stop-color="#20AC64"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" rx="120" fill="url(#bg)"/>
+  <!-- Simplified KitchenOwl mark: owl head + chef-hat outline, after the
+       official mark (white owl + hat on #20AC64). The full official PNG
+       (133 KB) cannot fit the 1-4 KB house budget and its thin hat
+       strokes turn to mush at card size, so this geometric reduction
+       keeps the owl face, the hat, and the brand green accent. -->
+  <path d="M 285 335 C 240 310 225 250 265 220 C 285 205 315 215 330 245 C 345 195 455 195 470 245 C 485 215 515 205 535 220 C 575 250 560 310 515 335" fill="none" stroke="#FFFFFF" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 200 390 Q 195 345 235 350 L 310 368 Q 400 340 490 368 L 565 350 Q 605 345 600 390 L 600 510 Q 600 615 400 615 Q 200 615 200 510 Z" fill="#FFFFFF"/>
+  <circle cx="318" cy="478" r="72" fill="#20AC64"/>
+  <circle cx="482" cy="478" r="72" fill="#20AC64"/>
+  <circle cx="318" cy="478" r="32" fill="#FFFFFF"/>
+  <circle cx="482" cy="478" r="32" fill="#FFFFFF"/>
+  <path d="M 362 528 L 438 528 L 400 588 Z" fill="#20AC64"/>
+</svg>
